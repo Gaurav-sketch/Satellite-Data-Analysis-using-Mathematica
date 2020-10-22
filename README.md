@@ -1,2 +1,4 @@
 # Satellite-Data-Analysis-using-Mathematica
-Used dataset containing information about the active satellites currently in orbit around the earth and extracted meaningful information by visualizing them.
+The Satellite Data is a list of active satellites currently in orbit around the Earth. The dataset includes
+basic information about the satellites and their orbits, but does not contain the detailed information
+necessary to locate individual satellites. But Mathematica has some in built data and functions to get the positions for the same. The information present in the dataset is publicly accessible and free and was collected from non-governmental, scientific, military, and academic websites available to the public. .I have attempted to include all currently active satellites. Other than this Mathematica itself has a SatelliteData which gives us more detailed exploration. We will look into that as well. Furthermore, as part of this project i will be doing Dataset Analysis and Visualisation to extract the meaningful information from the data.
